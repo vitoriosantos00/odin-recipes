@@ -1,0 +1,28 @@
+.titleone{
+    text-align: center;
+    background-color: rgb(240, 240, 150);
+    color: blue;
+}
+
+li .prim{
+    background-color: rgb(240, 240, 150);
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+} 
+img{
+    height:300px;
+    width: 'auto';
+}
+h3{
+    color: rgb(240, 240, 150);
+    background-color: blue;
+    text-align: center;
+}
+p, li{
+    color: blue;
+    background-color: rgb(109, 148, 255);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
